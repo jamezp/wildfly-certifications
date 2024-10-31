@@ -21,7 +21,7 @@ https://jakarta.ee/specifications/coreprofile/11/[Jakarta EE Core Profile 11]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
 +
-https://eclipse.mirror.rafal.ca/ee4j/jakartaee-tck/jakartaee11/staged/eftl/jakarta-core-profile-tck-11.0.0.zip[Jakarta EE Core Profile TCK 11.0 (Staged Release)], SHA-256: `cd5d039adcb17a626845ee43c03e4ff11fbdec6738afb251bc3b1778c389e1c2`
+https://eclipse.mirror.rafal.ca/ee4j/jakartaee-tck/jakartaee11/staged/eftl/jakarta-core-profile-tck-11.0.0.zip[Jakarta EE Core Profile TCK 11.0 (Staged Release)], SHA-256: `5722bac4f1af78e93ede95feaa448aa0bc19934d0871415c25dd45ffa8c5d1a5`
 
 * Public URL of TCK Results Summary:
 +

@@ -9,7 +9,7 @@ image:splash_wildflylogo_small.png[WildFly, align="center"]
 
 == Compatibility Certification Information
 
-Date:  October 29, 2024
+Date:  November 14, 2024
 
 * Product Name, Version: {server-name} {server-version}
 +
@@ -21,7 +21,7 @@ https://jakarta.ee/specifications/coreprofile/11/[Jakarta EE Core Profile 11]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
 +
-https://eclipse.mirror.rafal.ca/ee4j/jakartaee-tck/jakartaee11/staged/eftl/jakarta-core-profile-tck-11.0.0.zip[Jakarta EE Core Profile TCK 11.0 (Staged Release)], SHA-256: `5722bac4f1af78e93ede95feaa448aa0bc19934d0871415c25dd45ffa8c5d1a5`
+https://eclipse.mirror.rafal.ca/ee4j/jakartaee-tck/jakartaee11/staged/eftl/jakarta-core-profile-tck-11.0.0.zip[Jakarta EE Core Profile TCK 11.0 (Staged Release)], SHA-256: `0357bfab7025972edb2bf50277b6b4206b499a2961bc94e783f34782cc4a9bda`
 
 * Public URL of TCK Results Summary:
 +
@@ -45,14 +45,14 @@ Jakarta RESTful Web Services https://download.eclipse.org/jakartaee/restful-ws/4
 +
 [source]
 ----
-openjdk version "17.0.12" 2024-07-16
-OpenJDK Runtime Environment (Red_Hat-17.0.12.0.7-2) (build 17.0.12+7)
-OpenJDK 64-Bit Server VM (Red_Hat-17.0.12.0.7-2) (build 17.0.12+7, mixed mode, sharing)
+openjdk version "17.0.13" 2024-10-15
+OpenJDK Runtime Environment (Red_Hat-17.0.13.0.11-1) (build 17.0.13+11)
+OpenJDK 64-Bit Server VM (Red_Hat-17.0.13.0.11-1) (build 17.0.13+11, mixed mode, sharing)
 ----
 
 * Summary of the information for the certification environment; OS:
 +
-Fedora Linux 40
+Fedora Linux 41
 
 === Jakarta Core Profile TCK Results:
 
